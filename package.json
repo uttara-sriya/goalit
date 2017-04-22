@@ -1,11 +1,11 @@
 {
-  "name": "GoalIt",
+  "name": "Goal It",
   "version": "1.0.0",
   "author": "Sriya",
-  "description": "Life is simple, a goal without a plan is just a wish ;)",
+  "description": "Just a smart search for gamers",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hackbit/angularattack2017-goalit"
+    "url": "https://github.com/Hackbit/angularattack2017-goalit.git"
   },
   "devDependencies": {
     "angular2": "2.0.0-beta.2",
