@@ -4,5 +4,5 @@ export interface Artist {
     listeners:string;
     mbid:string;
     streamable:string;
-    shortname:[{"#text":string,"size":string}]
+    shortname:string;
 }
