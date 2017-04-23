@@ -1,6 +1,8 @@
 export interface Artist {
     name: string;
-    shortname: string;
     reknown: string;
-    bio: string;
+    listeners:string;
+    mbid:string;
+    streamable:string;
+    shortname:[{"#text":string,"size":string}]
 }
